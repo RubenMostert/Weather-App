@@ -1,3 +1,9 @@
+Very Basic React Weather App.
+
+Image: Pexels.com
+API:https://openweathermap.org/
+CSS: Plain CSS
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
